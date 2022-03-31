@@ -1,7 +1,10 @@
-# Discord Bot Template
+# Streamer Discord Bot
+
+Discord bot for streamers.
 
 ## Commands
-An example command has been added to allow a user to run `/server` to output server information (name and members count)
 
-## Hosting
-A Procfile has been provided to host the application on Heroku. It uses the `release` process type to deploy changes (if any) to commands for the bot.
+1. `/facebook`
+2. `/instagram`
+3. `/twitter`
+4. `/youtube`
