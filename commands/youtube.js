@@ -6,6 +6,6 @@ module.exports = {
     .setDescription('Link to my YouTube page!'),
 
   async execute(interaction) {
-    await interaction.reply(`Stream highlights and extras on my YouTube https://www.instagram.com`);
+    await interaction.reply(`Stream highlights and extras on my YouTube https://www.youtube.com`);
   },
 };
