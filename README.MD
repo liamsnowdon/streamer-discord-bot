@@ -6,5 +6,6 @@ Discord bot for streamers.
 
 1. `/facebook`
 2. `/instagram`
-3. `/twitter`
-4. `/youtube`
+3. `/twitch`
+4. `/twitter`
+5. `/youtube`
